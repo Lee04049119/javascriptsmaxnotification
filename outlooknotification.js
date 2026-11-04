@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Outlook Broadcast Approval Checker
 // @namespace    https://outlook.cloud.microsoft/
-// @version      2.2
+// @version      1.0
 // @description  Check broadcast recipients and attachment only when Send is clicked
 // @match        https://outlook.cloud.microsoft/mail/*
 // @match        https://outlook.office.com/mail/*
