@@ -6,6 +6,8 @@
 // @author       Lee Jian Biao
 // @match        https://smax.capitaland.com/saw/Request/*/general*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
+// @updateURL    https://raw.githubusercontent.com/Lee04049119/javascriptsmaxnotification/main/smaxnotification.js
+// @downloadURL  https://raw.githubusercontent.com/Lee04049119/javascriptsmaxnotification/main/smaxnotification.js
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
