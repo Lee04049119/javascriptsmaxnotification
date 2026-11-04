@@ -5,6 +5,8 @@
 // @description  Validate Solution before saving when Status is Complete
 // @author       Lee Jian Biao
 // @match        https://smax.capitaland.com/saw/Request/*/general*
+// @updateURL    https://raw.githubusercontent.com/Lee04049119/javascriptsmaxnotification/main/smaxverificationresolution.js
+// @downloadURL  https://raw.githubusercontent.com/Lee04049119/javascriptsmaxnotification/main/smaxverificationresolution.js
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
