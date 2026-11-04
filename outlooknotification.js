@@ -6,6 +6,8 @@
 // @match        https://outlook.cloud.microsoft/mail/*
 // @match        https://outlook.office.com/mail/*
 // @match        about:blank
+// @updateURL    https://raw.githubusercontent.com/Lee04049119/javascriptsmaxnotification/main/outlooknotification.js
+// @downloadURL  https://raw.githubusercontent.com/Lee04049119/javascriptsmaxnotification/main/outlooknotification.js
 // @run-at       document-idle
 // @grant        none
 // ==/UserScript==
